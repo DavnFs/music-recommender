@@ -65,7 +65,7 @@ or set up the project first on Vercel and connect it to your GitHub repository.
 ## File Structure
 - `page.tsx`: Main React component for the web app.
 - `spotify.py`: Python script to process `spotify.csv` and generate `data.json`.
-- `public/data.json`: Processed dataset for the web app (not included in repo; generate using `spotify.py`).
+- `public/data.json`: Processed dataset for the web app.
 - `datasets/spotify.csv`: Raw dataset (not included in repo).
 
 ## Contributing

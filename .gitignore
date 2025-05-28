@@ -29,4 +29,3 @@ next-env.d.ts
 #datasets
 /datasets
 music.csv
-data.json
